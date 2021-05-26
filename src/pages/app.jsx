@@ -1,5 +1,6 @@
 import React from "react";
+import UseEffect from "./components/useEffect";
 
-const app = () => <div></div>;
+const App = () => <UseEffect />;
 
-export default app;
+export default App;
